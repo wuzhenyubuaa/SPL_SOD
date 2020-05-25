@@ -7,7 +7,7 @@ Accurately segment the integral salient object is very challenging due to the he
 
 ## Network architecture
 
-![fig1](./img/pipeline2.png)
+![fig1](./img/pipeline2.pdf)
 
 
 ##Requirements
