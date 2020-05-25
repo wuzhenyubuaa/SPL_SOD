@@ -22,6 +22,11 @@ Accurately segment the integral salient object is very challenging due to the he
 ### PR and F-measure curves
 ![fig2](./img/img/pr.png)
 
+## Attributes-based performance on SOC
+![fig3](./img/img/soc.png)
+
+
+
 ## Saliency maps
 
 We provide the results online datasets including  [DUT-OMRON](https://drive.google.com/open?id=1MI2xRti3z7gANhXzPFUarIGSmtz4Qv_G), [DUTS-TE](https://drive.google.com/open?id=1ARbkY_5K6rzTuPiMSx9tGV8vV5oR2tM6), [ECSSD](https://drive.google.com/open?id=1mreYKJ8soFPRwwmgmzWlV6WdC89GC9Oc), [HKU-IS](https://drive.google.com/open?id=1NJMxVnUv5bJPSHZr6HrmXZI5nz1WdgPp), [PASCAL-S](https://drive.google.com/open?id=1IXOj453r-jBIlKEDjAEPKJvyHeK3ynyR)
