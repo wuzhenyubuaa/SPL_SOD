@@ -7,7 +7,7 @@ Accurately segment the integral salient object is very challenging due to the he
 
 ## Network architecture
 
-![fig1](./img/pipeline.png)
+![fig1](./img/img/pipeline.png)
 
 
 ##Requirements
@@ -17,10 +17,10 @@ Accurately segment the integral salient object is very challenging due to the he
 
 ### Visual comparison with previous start-of-the-arts
 
-![fig1](./img/sal_map.png)
+![fig1](./img/img/sal_map.png)
 
 ### PR and F-measure curves
-![fig2](./img/pr.png)
+![fig2](./img/img/pr.png)
 
 ###  Comparison of quantitative results including the F-measure and MAE
 ![fig3](./img/tab.png)
